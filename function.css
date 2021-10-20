@@ -1,0 +1,26 @@
+.flex {
+    font: 14px Arial;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .flex > input {
+    
+    width: 7.3%;
+    box-sizing:border-box;
+    border:1px solid black;
+    text-align:center;
+    line-height:10px;
+    padding:5px;
+  }
+  .flex > output {
+    
+    width: 7.3%;
+    box-sizing:border-box;
+    border:1px solid black;
+    text-align:center;
+    line-height:10px;
+    padding:10px;
+  }
+
+  
